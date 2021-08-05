@@ -1,8 +1,17 @@
-I'm Anatoly.
+Hello, My name is Anatoly(Not my real life ;) ), Learning C++, Feel Disapoitement at the moment because I took stupid action in learning, However, I'm from Algeria.
 
-[:WARNING:]: This guy is on the Techonolgy Edge.
+Achivements I did?
+1. Creating Discord Bot with Js, Create another one with Py. (Can't with Cpp sadly)
 
-<!---
-ZeroedIvan/ZeroedIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What do I like?
+- Chilling for sure, Solve stuff I guess?
+any more information?
+- Well... no.
+
+
+
+
+
+[] {} {} {} [] {} {} {} {} [] {} {} {} []
+Glad you took a look on my Githib account.
+[] {} {} {} [] {} {} {} {} [] {} {} {} []
